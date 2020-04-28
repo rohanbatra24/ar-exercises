@@ -1,4 +1,4 @@
-# Active Record Exercises
+# Active Record Exercisess
 
 ## Introduction
 
